@@ -1,0 +1,10 @@
+{
+  "name": "ITCompanyTypeScript",
+  "version": "0.0.1",
+  "dependencies": {
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.2"
+  }
+}
